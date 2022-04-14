@@ -1,0 +1,27 @@
+.todo_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 350px;
+  min-height: 400px;
+  padding: 15px;
+  text-align: center;
+}
+
+.list_item {
+  transition: all 600ms;
+  border-radius: 5px;
+  width: 600px;
+  background-color: rgb(10, 3, 68);
+  color: white;
+  padding: 15px 10px;
+  margin-top: 5px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.315);
+  cursor: pointer;
+}
+
+.list_item:hover {
+  padding: 10px 10px;
+
+  font-size: 1.1rem;
+}

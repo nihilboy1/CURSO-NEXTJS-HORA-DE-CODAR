@@ -1,0 +1,7 @@
+criar projeto: 
+npx create-next-app .
+
+organização: 
+mover as pastas "styles" e "pages" pra dentro uma nova pasta chamada "src"
+criar uma pasta chamada "components" dentro de "src"
+apagar os arquivos desnecessários

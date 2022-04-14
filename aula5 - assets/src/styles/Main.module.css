@@ -1,0 +1,13 @@
+.main_box{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-between;
+}
+
+.content_box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}

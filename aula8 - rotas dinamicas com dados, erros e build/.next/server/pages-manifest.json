@@ -1,0 +1,17 @@
+{
+  "/404": "pages/404.html",
+  "/api/hello": "pages/api/hello.js",
+  "/_app": "pages/_app.js",
+  "/cadastro": "pages/cadastro.html",
+  "/about": "pages/about.html",
+  "/products": "pages/products.html",
+  "/products/product/bluepant": "pages/products/product/bluepant.html",
+  "/": "pages/index.html",
+  "/products/product/redpant": "pages/products/product/redpant.html",
+  "/products/product": "pages/products/product.html",
+  "/todo/[todoid]/comments/[commentid]": "pages/todo/[todoid]/comments/[commentid].html",
+  "/_error": "pages/_error.js",
+  "/todo": "pages/todo.js",
+  "/todo/[todoid]": "pages/todo/[todoid].js",
+  "/_document": "pages/_document.js"
+}

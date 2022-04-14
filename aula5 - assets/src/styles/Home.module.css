@@ -1,0 +1,10 @@
+.home_title{
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.534);
+  background-image: url("/images/pattern.jpg");
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}

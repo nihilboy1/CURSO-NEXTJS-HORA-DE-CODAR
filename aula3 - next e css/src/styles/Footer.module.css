@@ -1,0 +1,9 @@
+.footer {
+  background-color: rgba(0, 0, 0, 0.493);
+  display: flex;
+  padding: 15px 10px;
+}
+
+.text_footer{
+  color: white;
+}
